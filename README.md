@@ -29,14 +29,12 @@ If you're interested in contacting me or have any questions, feel free to reach 
   
 <h2> about me </h2>
 
+- ✅ open to work right away
 - 🌐 **Full-Stack developer** specializing on `react`, `redux`, `ruby on rails` & `data structures`
 - 💡 Since I'm a kid I'm creative and good for designing / drawing 
 - ⭐ currently studying / working at **[@Microverseinc](https://www.microverse.org/)**
 - ❤️‍🔥 hardware, design, music, games 
-- ✅ open to work right away
 
-
- 
 <h2>languages:</h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="js" />
