@@ -68,7 +68,6 @@ If you're interested in collaborating or have any questions, feel free to reach 
 </br></br>
   
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VelzckC0D3&theme=dark" alt="GitHub Streak"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VelzckC0D3&theme=dark" alt="GitHub Stats"/>
 </div>
 
