@@ -26,16 +26,17 @@ If you're interested in contacting me or have any questions, feel free to reach 
 
 <br></br>
 
-<img align="right" width="300" alt="Shimarin" src="https://user-images.githubusercontent.com/92229666/229737792-10a38467-4843-4d10-9cac-18be234e1c3e.png"/>
+<img align="right" width="330" alt="Shimarin" src="https://user-images.githubusercontent.com/92229666/229737792-10a38467-4843-4d10-9cac-18be234e1c3e.png"/>
 
   
 <h2> about me </h2>
 
 - ✅ open to work right away
 - 🌐 **Full-Stack developer** `react`, `redux`, `ruby on rails`, `data structures`
-- 💡 Since I'm a kid I'm creative and good for designing / drawing 
+- 💡 Since I was a kid I've being a creative mind, good for designing / drawing 
 - ⭐ currently studying / working at **[@Microverseinc](https://www.microverse.org/)**
 - ❤️‍🔥 hardware, design, music, games 
+- 🗣️ spanish & english
 
 <h2>languages:</h2>
 <p>
