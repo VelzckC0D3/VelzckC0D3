@@ -67,13 +67,13 @@ If you're interested in collaborating or have any questions, feel free to reach 
 </br></br>
   
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VelzckC0D3&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VelzckC0D3&theme=dracula" alt="GitHub Stats"/>
 </div>
 
 
   
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=VelzckC0D3&style=plastic&color=grey"/>
+    <img src="https://komarev.com/ghpvc/?username=VelzckC0D3&style=plastic&color=593461"/>
 </div>
 
 
