@@ -58,8 +58,7 @@ If you're interested in collaborating or have any questions, feel free to reach 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma" />
 </p>
 
-  
-  </br></br>  </br></br>
+  </br></br> 
   
 <div align="right">
   </div>
