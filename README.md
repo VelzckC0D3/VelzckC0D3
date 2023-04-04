@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92229666/229737179-56fde875-c952-4946-b885-0dd8e3f9e9a7.png" width="45%">
+  <img src="https://user-images.githubusercontent.com/92229666/229752651-c7119c3b-01d0-4f52-91b5-2347732cac53.png" width="55%">
 </p>
 
 <div>
@@ -13,12 +13,9 @@ My goal is to learn how to become a full-stack developer and be a valuable asset
 If you're interested in collaborating or have any questions, feel free to reach out to me. I'm excited to connect with like-minded individuals and continue growing as a programmer. 
 </samp>
 <br></br>
-
-
-    
 <br></br>
 
-<img align="right" width="400" alt="Shimarin" src="https://user-images.githubusercontent.com/92229666/229737792-10a38467-4843-4d10-9cac-18be234e1c3e.png"/>
+<img align="right" width="350" alt="Shimarin" src="https://user-images.githubusercontent.com/92229666/229737792-10a38467-4843-4d10-9cac-18be234e1c3e.png"/>
 
   
 <h2> about me </h2>
@@ -58,7 +55,6 @@ If you're interested in collaborating or have any questions, feel free to reach 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma" />
 </p>
 
-  </br></br> 
   
 <div align="right">
   </div>
