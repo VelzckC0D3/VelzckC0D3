@@ -33,7 +33,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
 
 - ✅ open to work right away
 - 🌐 **Full-Stack developer** `react`, `redux`, `ruby on rails`, `data structures`
-- 💡 Since I was a kid I've being a creative mind, good for designing / drawing 
+- 💡 Since kid I've being a creative mind, good for design & solve problems
 - ⭐ currently studying / working at **[@Microverseinc](https://www.microverse.org/)**
 - ❤️‍🔥 hardware, design, music, games 
 - 🗣️ spanish & english
