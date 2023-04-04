@@ -20,7 +20,12 @@ If you're interested in contacting me or have any questions, feel free to reach 
   <a href="https://www.linkedin.com/in/velzckcode/">Linkedin</a>,
   <a href="https://twitter.com/velzck">Twitter</a>,
   <a href="https://www.instagram.com/alejandro.velzck/">Instagram</a>
+  
+  
+  ## [click here](https://velzck-portfolio.netlify.app/) to visit my portfolio
 </div>
+
+
 
 <br></br>
 
