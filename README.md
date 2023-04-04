@@ -68,6 +68,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
 <br></br>
   
 <div align="center">
+    <h2>github stats</h2>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VelzckC0D3&theme=dracula" alt="GitHub Stats"/>
 </div>
 
