@@ -10,7 +10,7 @@ I'm Alejandro Velasquez, an enthusiast from Medellin, Colombia, who is passionat
 <br></br>
 My goal is to learn how to become a full-stack developer and be a valuable asset to any team I join.
 <br></br>
-If you're interested in collaborating or have any questions, feel free to reach out to me. I'm excited to connect with like-minded individuals and continue growing as a programmer. 
+If you're interested in contacting me or have any questions, feel free to reach out to me, also I'm available to work with you right away. I'm excited to connect with like-minded individuals and continue growing as a programmer. 
 </samp>
 <br></br>
 <br></br>
