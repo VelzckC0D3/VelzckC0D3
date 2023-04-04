@@ -21,11 +21,11 @@ If you're interested in collaborating or have any questions, feel free to reach 
 <h2> about me </h2>
   
 - ⭐ currently studying / working at **[@Microverseinc](https://www.microverse.org/)**
-- 🌐 becoming **Full-Stack developer**
+- 🌐 **Full-Stack developer** in formation
 - ❤️‍🔥 hardware, design, music, games 
 
 <div align="left">
-  <h2> social media</h2>
+  <h2>contact me on:</h2>
   <a href="mailto:alejandro.velzck@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/velzckcode/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/velzck"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
@@ -33,7 +33,7 @@ If you're interested in collaborating or have any questions, feel free to reach 
 </div>
 
   
-<h2>Programming languages</h2>
+<h2>languages:</h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="ts" />
@@ -41,14 +41,14 @@ If you're interested in collaborating or have any questions, feel free to reach 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css" />
 </p>
 
-<h2>Currently learning</h2>
+<h2>learning:</h2>
 <p>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&amp;logo=ruby-on-rails&amp;logoColor=white" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux" />
 </p>
 
-<h2>Designing tools</h2>
+<h2>design tools:</h2>
 <p>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=white" alt="photoshop" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=white" alt="illustrator" />
