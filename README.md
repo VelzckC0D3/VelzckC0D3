@@ -69,9 +69,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
   </div>
   </div>
   
-
-
-<br><h2></h2></br>  
+<h2></h2>
 
 <div align="center">
   <h3>github stats</h3>
