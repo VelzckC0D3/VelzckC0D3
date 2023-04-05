@@ -18,7 +18,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
   
 
 
-  <h3><img src="https://user-images.githubusercontent.com/92229666/230213143-08f0bc9b-656a-482c-b801-898f44e6d90c.gif" width="28px"> contact me <img src="https://user-images.githubusercontent.com/92229666/230213143-08f0bc9b-656a-482c-b801-898f44e6d90c.gif" width="28px"></h3>
+  <h3>✉️ contact me 📧</h3>
   <a href="mailto:alejandro.velzck@gmail.com">Email</a>,
   <a href="https://www.linkedin.com/in/velzckcode/">Linkedin</a>,
   <a href="https://twitter.com/velzck">Twitter</a>,
@@ -76,12 +76,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VelzckC0D3&theme=dracula" alt="GitHub Stats"/>
 </div>
 
-
 <h2></h2>
-
-<div align="center">
-      <img src="https://i.pinimg.com/originals/c5/98/77/c5987751bddee68c4ddb8d069b515e65.gif" width="128px">
-</div>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=VelzckC0D3&style=plastic&color=593461"/>
