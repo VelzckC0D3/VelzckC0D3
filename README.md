@@ -27,7 +27,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
 
 <h2></h2>
 
-<img align="right" width="400" alt="Shimarin" src="https://user-images.githubusercontent.com/92229666/229737792-10a38467-4843-4d10-9cac-18be234e1c3e.png"/>
+<img align="right" width="360" alt="Shimarin" src="https://user-images.githubusercontent.com/92229666/229737792-10a38467-4843-4d10-9cac-18be234e1c3e.png"/>
 
 <h2> about me </h2>
 
