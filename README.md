@@ -6,9 +6,9 @@
   
   <p align="center">
 <samp>
-I'm Alejandro Velasquez, an enthusiast from Medellin, Colombia, who is passionate about design and coding. For the past two years, I've been developing my skills to become a valuable programmer and make my way into the industry.
+Hi there! my name is Alejandro Velasquez, I'm an enthusiast from Medellin, Colombia, passionate about design and coding. For the past two years, I've been developing my skills to become a valuable programmer and make my way into the industry.
 <br></br>
-My goal is to learn how to become a full-stack developer and be a valuable asset to any team I join.
+My goal is to learn how to reach the best way to learn what's need in order have knowledge and be a valuable asset to any team I join.
 <br></br>
 If you're interested in contacting me or have any questions, feel free to reach out to me, I'm available to work with you right away and excited to connect with like-minded individuals to continue growing as a programmer. 
 </samp>
