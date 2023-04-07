@@ -33,10 +33,11 @@ If you're interested in contacting me or have any questions, feel free to reach 
 
 <p>
     <p> ✅ open to new oportunities</p>
-    <p> 🌐 <b>Full-Stack developer</b> <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>data structures</code></p>
+    <p> 🌐 <b>Full-Stack developer</b></p>
+    <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>jest</code>, <code>data structures</code> </p>
     <p> 💡 Since kid I've being a creative mind, good for design & solve problems</p>
     <p> ⭐ currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
-        <p> ✨ My last project: <a href="https://velzck-list.netlify.app/">To Do List</a>
+    <p> ✨ My last project: <a href="https://velzck-list.netlify.app/">To Do List</a> Unit Testing with Jest</p>
     <p> ❤️‍🔥 hardware, design, music, games </p>
     <p> 🗣️ spanish & english</p>
 </p>
