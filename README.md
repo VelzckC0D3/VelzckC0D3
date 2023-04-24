@@ -75,11 +75,18 @@ If you're interested in contacting me or have any questions, feel free to reach 
 <div align="center">
   <h3>github stats</h3>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VelzckC0D3&theme=dracula" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VelzckC0D3&theme=monokai-metallian"/>
 </div>
+
 
 <h2></h2>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=VelzckC0D3&style=plastic&color=593461"/>
         <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=plastice&query=%24.stars&color=593461&url=https://api.github-star-counter.workers.dev/user/VelzckC0D3"/>
+          <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=plastice&query=%24.stars&color=593461&url=https://api.github-star-counter.workers.dev/user/VelzckC0D3"/>
+  
 </div>
+
+
+[![GitHub Streak]](https://git.io/streak-stats)
