@@ -88,6 +88,3 @@ If you're interested in contacting me or have any questions, feel free to reach 
           <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=plastice&query=%24.stars&color=593461&url=https://api.github-star-counter.workers.dev/user/VelzckC0D3"/>
   
 </div>
-
-
-[![GitHub Streak]](https://git.io/streak-stats)
