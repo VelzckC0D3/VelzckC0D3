@@ -37,7 +37,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
     <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>jest</code>, <code>data structures</code> </p>
     <p> 💡 Since kid I've being a creative mind, good for design & solve problems</p>
     <p> ⭐ currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
-    <p> ✨ My last project: <a href="https://velzck-list.netlify.app/">To Do List</a> Unit Testing with Jest</p>
+    <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/math_magicians_react">Math Magicians</a> featuring React</p>
     <p> ❤️‍🔥 hardware, design, music, games </p>
     <p> 🗣️ spanish & english</p>
 </p>
