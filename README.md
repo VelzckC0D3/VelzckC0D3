@@ -76,6 +76,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
   <h3>github stats</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VelzckC0D3&theme=monokai-metallian"/>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VelzckC0D3&theme=dracula"/>
+  <h2></h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelzckC0D3&theme=dracula"/>
 
 </div>
