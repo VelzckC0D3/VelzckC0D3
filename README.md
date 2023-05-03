@@ -32,14 +32,14 @@ If you're interested in contacting me or have any questions, feel free to reach 
 <h2> about me </h2>
 
 <p>
-    <p> ✅ open to new oportunities</p>
+    <p> ✅ Open to new oportunities</p>
     <p> 🌐 <b>Full-Stack developer</b></p>
     <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>jest</code>, <code>data structures</code> </p>
     <p> 💡 Since kid I've being a creative mind, good for design & solve problems</p>
-    <p> ⭐ currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
+    <p> ⭐ Currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
     <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/math_magicians_react">Math Magicians</a> featuring React</p>
-    <p> ❤️‍🔥 hardware, design, music, games </p>
-    <p> 🗣️ spanish & english</p>
+    <p> ❤️‍🔥 Hardware, design, music, games </p>
+    <p> 🗣️ Spanish & english</p>
 </p>
   
 <h2>languages</h2>
@@ -74,8 +74,9 @@ If you're interested in contacting me or have any questions, feel free to reach 
 
 <div align="center">
   <h3>github stats</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VelzckC0D3&theme=monokai-metallian"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VelzckC0D3&theme=monokai-metallian"/>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VelzckC0D3&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelzckC0D3&theme=dracula"/>
 
 </div>
 
