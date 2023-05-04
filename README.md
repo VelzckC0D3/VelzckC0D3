@@ -43,20 +43,12 @@ If you're interested in contacting me or have any questions, feel free to reach 
 </p>
   
 <h2>languages</h2>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="ts" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css" />
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,jest,github,webpack,bootstrap,git,photoshop,aftereffects,premiere&perline=6)](https://skillicons.dev)
 
 <h2>learning</h2>
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&amp;logo=ruby-on-rails&amp;logoColor=white" alt="Ruby on Rails" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux" />
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,redux,react,python)](https://skillicons.dev)
 
 <h2>design tools</h2>
 <p>
