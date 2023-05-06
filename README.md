@@ -44,17 +44,12 @@ If you're interested in contacting me or have any questions, feel free to reach 
   
 <h2>languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,jest,github,webpack,bootstrap,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,jest,github,webpack,bootstrap,git,photoshop,aftereffects,premiere,xd&perline=7)](https://skillicons.dev)
 
 <h2>learning</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,redux,react,python)](https://skillicons.dev)
 
-<h2>design tools</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=photoshop,aftereffects,premiere,xd&perline=6)](https://skillicons.dev)
-
-  
 <div align="right">
   </div>
   </div>
