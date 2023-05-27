@@ -37,7 +37,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
     <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>jest</code>, <code>data structures</code> </p>
     <p> 💡 Since kid I've being a creative mind, good for design & solve problems</p>
     <p> ⭐ Currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
-    <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/react-redux-capstone">Velzck's Game Collection</a> <br/> My React capstone project fetching API using Redux Toolkit</p>
+    <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/react-redux-capstone">Velzck's Game Collection</a> <br/> React & Redux capstone Project</p>
     <p> ❤️‍🔥 Hardware, design, music, games </p>
     <p> 🗣️ Spanish & english</p>
 </p>
