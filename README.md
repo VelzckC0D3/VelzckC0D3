@@ -37,18 +37,18 @@ If you're interested in contacting me or have any questions, feel free to reach 
     <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>jest</code>, <code>data structures</code> </p>
     <p> 💡 Since kid I've being a creative mind, good for design & solve problems</p>
     <p> ⭐ Currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
-    <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/react-redux-capstone">Velzck's Game Collection</a> <br/> React & Redux capstone Project</p>
+    <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/SQL_Database">Vet Clinic Database</a> with postgreSQL</p>
     <p> ❤️‍🔥 Hardware, design, music, games </p>
     <p> 🗣️ Spanish & english</p>
 </p>
   
-<h2>languages</h2>
+<h2>technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,jest,github,webpack,bootstrap,git,photoshop,aftereffects,premiere,xd&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,git,webpack,bootstrap,postgres,jest,babel,vite,github,netlify,bash,figma,photoshop,xd,aftereffects,premiere&perline=7)](https://skillicons.dev)
 
 <h2>learning</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,redux,react,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,python)](https://skillicons.dev)
 
 <div align="right">
   </div>
