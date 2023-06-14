@@ -44,7 +44,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
   
 <h2>technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,git,webpack,bootstrap,postgres,jest,babel,vite,github,netlify,bash,figma,photoshop,xd,aftereffects,premiere&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,postgres,jest,github,netlify,bash,photoshop,xd,aftereffects&perline=7)](https://skillicons.dev)
 
 <h2>learning</h2>
 
