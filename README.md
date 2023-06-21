@@ -33,9 +33,9 @@ If you're interested in contacting me or have any questions, feel free to reach 
     <p> ✅ Open to new oportunities</p>
     <p> 🌐 <b>Full-Stack developer</b></p>
     <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>jest</code>, <code>data structures</code> </p>
-    <p> 💡 Since kid I've being a creative mind, good for design & solve problems</p>
+    <p> 💡 Since kid I've been a creative mind, good for designing & solve problems</p>
     <p> ⭐ Currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
-    <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/SQL_Database">Vet Clinic Database</a> with postgreSQL</p>
+    <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/School_Library">School Library</a> Ruby</p>
     <p> ❤️‍🔥 Hardware, design, music, games </p>
     <p> 🗣️ Spanish & english</p>
 </p>
