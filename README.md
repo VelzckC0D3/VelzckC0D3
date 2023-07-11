@@ -5,11 +5,11 @@
 <div>
   
   <p align="center">
-<samp>
-Hi there! my name is Alejandro Velasquez, I'm an enthusiast from Medellin, Colombia, passionate about design and coding. For the past two years, I've been developing my skills to become a valuable programmer.
+
+Hi there! my name is Alejandro Velasquez, born in Medellin, Colombia.For the past two years, I've been developing my skills to become a valuable programmer.
 <br></br>
 If you're interested in contacting me or have any questions, feel free to reach out to me, I'm available to work with you right away and excited to connect with like-minded individuals to continue growing as a person. 
-</samp>
+
 <br></br>
 
 <div align="center">
