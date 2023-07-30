@@ -42,7 +42,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
   
 <h2>technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ruby,rails,git,postgres,jest,github,netlify,bash,photoshop,xd,aftereffects&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ruby,rails,git,postgres,jest,github,netlify,bash,photoshop,xd,aftereffects&perline=8)](https://skillicons.dev)
 
 
 <div align="right">
