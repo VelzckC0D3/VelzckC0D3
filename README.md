@@ -33,20 +33,17 @@ If you're interested in contacting me or have any questions, feel free to reach 
     <p> ✅ Open to new oportunities</p>
     <p> 🌐 <b>Full-Stack developer</b></p>
     <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>jest</code>, <code>data structures</code> </p>
-    <p> 💡 Since kid I've been a creative mind, good for designing & solve problems</p>
+    <p> 💡 Make things work with clear interfaces and good structures</p>
     <p> ⭐ Currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
     <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/School_Library">School Library</a> Ruby</p>
-    <p> ❤️‍🔥 Hardware, design, music, games </p>
+    <p> ❤️‍🔥 Software, Design, Music, Games </p>
     <p> 🗣️ Spanish & english</p>
 </p>
   
 <h2>technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,postgres,jest,github,netlify,bash,photoshop,xd,aftereffects&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ruby,rails,git,postgres,jest,github,netlify,bash,photoshop,xd,aftereffects&perline=6)](https://skillicons.dev)
 
-<h2>learning</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=ruby,python)](https://skillicons.dev)
 
 <div align="right">
   </div>
