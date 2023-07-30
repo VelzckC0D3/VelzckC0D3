@@ -1,20 +1,18 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/92229666/229752651-c7119c3b-01d0-4f52-91b5-2347732cac53.png" width="55%">
 </p>
+ 
+<h2></h2>
 
 <div>
-  
-  <p align="center">
-
+<p align="center">
 Hi there! my name is Alejandro Velasquez, from Medellin, Colombia. For the past two years, I've been developing my skills to become a valuable programmer.
 <br></br>
 If you're interested in contacting me or have any questions, feel free to reach out to me, I'm available to work with you right away and excited to connect with like-minded individuals to continue growing as a person. 
 
-<br></br>
-
 <div align="center">
   
-
+<h2></h2>
 
   <h3>✉️ contact me 📧</h3>
   <a href="mailto:alejandro.velzck@gmail.com">Email</a>,
@@ -22,6 +20,8 @@ If you're interested in contacting me or have any questions, feel free to reach 
   <a href="https://twitter.com/velzck">Twitter</a>,
   <a href="https://www.instagram.com/alejandro.velzck/">Instagram</a>
 </div>
+
+
 
 <h2></h2>
 
