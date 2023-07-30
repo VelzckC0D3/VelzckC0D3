@@ -51,6 +51,8 @@ If you're interested in contacting me or have any questions, feel free to reach 
   
 <h2></h2>
 
+<br></br>
+
 <div align="center">
   <h3>github stats</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VelzckC0D3&theme=monokai-metallian"/>
