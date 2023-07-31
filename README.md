@@ -17,8 +17,6 @@ If you're interested in contacting me or have any questions, feel free to reach 
   <h3>✉️ contact me 📧</h3>
   <a href="mailto:alejandro.velzck@gmail.com">Email</a>,
   <a href="https://www.linkedin.com/in/velzckcode/">Linkedin</a>,
-  <a href="https://twitter.com/velzck">Twitter</a>,
-  <a href="https://www.instagram.com/alejandro.velzck/">Instagram</a>
 </div>
 
 
