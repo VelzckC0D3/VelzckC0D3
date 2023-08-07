@@ -33,7 +33,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
     <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>jest</code>, <code>data structures</code> </p>
     <p> 💡 Make things work with clear interfaces and good structures</p>
     <p> ⭐ Currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
-    <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/School_Library">School Library</a> Ruby</p>
+    <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/Budget_App">Budged App</a> RoR</p>
     <p> ❤️‍🔥 Software, Design, Music, Games </p>
     <p> 🗣️ Spanish & english</p>
 </p>
