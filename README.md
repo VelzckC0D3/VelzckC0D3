@@ -30,7 +30,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
 <p>
     <p> ✅ Open to new oportunities</p>
     <p> 🌐 <b>Full-Stack developer</b></p>
-    <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>testing</code>, <code>data structures</code>, <code>databases</code> </p>
+    <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>data structures</code>, <code>databases</code> </p>
     <p> 💡 Make things work with clear interfaces and good structures</p>
     <p> ⭐ Currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
     <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/Budget_App">Budged App</a> RoR</p>
