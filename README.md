@@ -11,15 +11,10 @@ Hi there! my name is Alejandro Velasquez, from Medellin, Colombia. For the past 
 If you're interested in contacting me or have any questions, feel free to reach out to me, I'm available to work with you right away and excited to connect with like-minded individuals to continue growing as a person. 
 
 <div align="center">
-  
-<h2></h2>
-
-  <h3>✉️ contact me 📧</h3>
   <a href="mailto:alejandro.velzck@gmail.com">Email</a>,
-  <a href="https://www.linkedin.com/in/velzckcode/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/velzckcode/">Linkedin</a>,
+    <a href="https://velzck.netlify.app/">Portfolio</a>
 </div>
-
-
 
 <h2></h2>
 
