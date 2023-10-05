@@ -30,7 +30,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
     <p> ⭐ Currently studying / working at <a href="https://www.microverse.org/">@Microverseinc</a></p>
     <p> ✨ Working on: <a href="https://github.com/VelzckC0D3/Land-Rover-E-Commerce">Land Rover e-commerce</a></p>
     <p> ❤️‍🔥 Software, Design, Music, Games </p>
-    <p> 🗣️ Spanish & english</p>
+    <p> 🗣️ Spanish(native) & English(C1 advanced)</p>
 </p>
   
 <h2>technologies</h2>
