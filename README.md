@@ -12,8 +12,8 @@ If you're interested in contacting me or have any questions, feel free to reach 
 
 <div align="center">
   <h3>
-    <a href="mailto:alejandro.velzck@gmail.com">Email 📨</a>,
-    <a href="https://www.linkedin.com/in/velzckcode/">Linkedin 🌐</a>,
+    <a href="mailto:alejandro.velzck@gmail.com">Email 📨</a> |
+    <a href="https://www.linkedin.com/in/velzckcode/">Linkedin 🌐</a> |
     <a href="https://velzck.netlify.app/">Portfolio 💼</a>
   </h3>
 </div>
