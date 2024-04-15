@@ -25,7 +25,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
 <h2> about me </h2>
 
 <p>
-    <p> ✅ Open to new oportunities</p>
+    <p> ✅ Front-end developer at PurpleFire</p>
     <p> 🌐 <b>Full-Stack developer</b></p>
     <p> 📚 <code>react</code>, <code>redux</code>, <code>ruby on rails</code>, <code>data structures</code>, <code>databases</code> </p>
     <p> 💡 Make things work with clear interfaces and good structures</p>
