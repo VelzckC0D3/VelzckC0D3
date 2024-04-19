@@ -38,19 +38,7 @@ If you're interested in contacting me or have any questions, feel free to reach 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ruby,rails,git,postgres,jest,github,postman,bash,netlify,photoshop,aftereffects&perline=8)](https://skillicons.dev)
 
 
-<div align="right">
-  </div>
-  </div>
-  
-<h2></h2>
-<br></br>
-<h2></h2>
 
-<div align="center">
-  <h3>github stats</h3>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VelzckC0D3&theme=dracula"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VelzckC0D3&theme=monokai-metallian"/>
-</div>
 
 
 <h2></h2>
