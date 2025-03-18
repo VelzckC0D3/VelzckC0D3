@@ -6,7 +6,7 @@
 
 <div>
 <p align="center">
-Hi there! my name is Alejandro Velasquez, from Medellin, Colombia. For the past two years, I've been developing my skills to become a valuable full-stack web developer.
+Hi there! my name is Alejandro Velasquez, from Medellin, Colombia. 3 years experienced Front-End developer.
 <br></br>
 If you're interested in contacting me or have any questions, feel free to reach out, I'm ready to work right away and excited to connect with like-minded individuals to keep learning. 
 
